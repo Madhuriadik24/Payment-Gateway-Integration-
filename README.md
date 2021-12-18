@@ -8,20 +8,27 @@ Once the payment is done an invoice will be generated and an email will be sent 
 * JavaScript 
 # Gateway Used
 * RazorPay
-******************************************************************************************************************
+
 # Snapshots:
-Home
+* Home
 ![1](https://user-images.githubusercontent.com/21354713/146641467-f6ce592f-9ce6-4c1e-848a-3ad89dd97bc4.png)
 ****************************************************************************************************************
-About
+* About
 ![about](https://user-images.githubusercontent.com/21354713/146641479-db247c41-35ec-4fb3-abd5-ee9004c97385.png)
 *********************************************************************************************************************
-Donate
+* Donate
 ![2](https://user-images.githubusercontent.com/21354713/146641470-f642d24d-9640-4443-bfc0-938cc72757c9.png)
+
 ![3](https://user-images.githubusercontent.com/21354713/146641471-21deb15c-75a0-4197-9a93-1d70728cb5b3.png)
+
 ![4](https://user-images.githubusercontent.com/21354713/146641472-fdd4a245-0096-4ebd-ba2d-d98a251f8226.png)
+
 ![5](https://user-images.githubusercontent.com/21354713/146641473-2cbb4f15-2d95-4aaa-9bb3-3370bf199c82.png)
+
 ![6](https://user-images.githubusercontent.com/21354713/146641474-4e1295c8-f251-4e21-8042-b6cf55c0f529.png)
+
 ![7](https://user-images.githubusercontent.com/21354713/146641475-0b94e2f2-8933-47b2-8fdf-3e9175938eeb.png)
+
 ![8](https://user-images.githubusercontent.com/21354713/146641476-bcc38223-aa61-4d13-81bf-c787f432d6cb.png)
+
 ![9](https://user-images.githubusercontent.com/21354713/146641478-45296b48-bf57-4ad1-a087-28978e91c3cb.png)
