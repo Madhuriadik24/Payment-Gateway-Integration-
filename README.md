@@ -10,13 +10,13 @@ Once the payment is done an invoice will be generated and an email will be sent 
 * RazorPay
 
 # Snapshots:
-* Home
+# Home
 ![1](https://user-images.githubusercontent.com/21354713/146641467-f6ce592f-9ce6-4c1e-848a-3ad89dd97bc4.png)
 ****************************************************************************************************************
-* About
+# About
 ![about](https://user-images.githubusercontent.com/21354713/146641479-db247c41-35ec-4fb3-abd5-ee9004c97385.png)
 *********************************************************************************************************************
-* Donate
+# Donate
 ![2](https://user-images.githubusercontent.com/21354713/146641470-f642d24d-9640-4443-bfc0-938cc72757c9.png)
 
 ![3](https://user-images.githubusercontent.com/21354713/146641471-21deb15c-75a0-4197-9a93-1d70728cb5b3.png)
