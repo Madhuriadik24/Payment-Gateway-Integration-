@@ -25,10 +25,8 @@ Once the payment is done an invoice will be generated and an email will be sent 
 
 ![5](https://user-images.githubusercontent.com/21354713/146641473-2cbb4f15-2d95-4aaa-9bb3-3370bf199c82.png)
 
-![6](https://user-images.githubusercontent.com/21354713/146641474-4e1295c8-f251-4e21-8042-b6cf55c0f529.png)
-
 ![7](https://user-images.githubusercontent.com/21354713/146641475-0b94e2f2-8933-47b2-8fdf-3e9175938eeb.png)
 
 ![8](https://user-images.githubusercontent.com/21354713/146641476-bcc38223-aa61-4d13-81bf-c787f432d6cb.png)
 
-![9](https://user-images.githubusercontent.com/21354713/146641478-45296b48-bf57-4ad1-a087-28978e91c3cb.png)
+
